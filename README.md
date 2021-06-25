@@ -12,6 +12,9 @@ Geant4PEPI
  
 ## Authors
  L. Brombal, N. Poles
+ 
+ INFN - Division of Trieste
+ University of Trieste, Department of Physics
 
 ## GEOMETRY DEFINITION
 

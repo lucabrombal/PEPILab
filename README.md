@@ -1,7 +1,7 @@
 Geant4PEPI 
 -------------
 
- Edge illumination setup with tungsten anode source, sample and object masks (optional) and pixel based CdTe sensor 650um thick.
+ Geant4 simulation of an Edge illumination setup with tungsten anode source, sample and object masks (optional) and pixel based CdTe sensor 650um thick.
  3 geometries can be implemented: 1. double-mask (default), single-mask, conventional (no masks)
  Detector can be operated as ideal photon counter, realistic energy response with 1 energy threshold (default) or 2 thresholds
 
@@ -18,7 +18,7 @@ Geant4PEPI
 
 ## GEOMETRY DEFINITION
 
-standard setup 
+standard setup, top view sketch
 ```
 ╔═════════════════════════════════════════════════════════════════════════════╗
 ║                                                                             ║
